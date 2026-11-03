@@ -1,0 +1,26 @@
+# Compiled binaries and object files
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build directories
+build/
+cmake-build-*/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
